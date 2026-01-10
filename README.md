@@ -1,4 +1,5 @@
 # JAVA의 정석
+
 ## Chapter 1
 - 자바에서 모든 코드는 반드시 클래스 안에 존재해야 한다.
 
@@ -19,4 +20,10 @@ println()과 print()의 차이점
 상수
 - 값 변경 불가능
 - `final int SEONGMIN_AGE = 25;`
+
 ## Chapter 3 연산자
+
+## Chapter 4 조건문과 반복문
+
+switch문에서
+- 조건식은 결과값이 반드시 정수여야 한다.
